@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/profile-banner-v2.png" alt="Hello world" style="width: 100%; height: auto;">
+<img src="./banner/profile-banner.png" alt="Hello world" style="width: 100%; height: auto;">
 <br/>
 
 <!--- title --->
