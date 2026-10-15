@@ -21,7 +21,7 @@
 - 🛠️ I’m currently learning **React MongoDB, Mongoose, Docker**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[Forhad823](https://forhad-823.netlify.app)** and My **[Resume](https://drive.google.com/drive/folders/1VwQLjt0OOb4ACjda8OUwGiGfCadMpOvr?usp=sharing/)**
-- 📝 I regularly explore articles on **[LinkedIn](https://linkedin.com/in/md-forhad-uddin-b65496231)**
+- 📝 I regularly explore articles on **[LinkedIn](https://www.linkedin.com/in/forhad823)**
 - 📫 Feel free to reach me out **[Email](forhaduddin823@gmail.com)**
 
 <br/>
@@ -32,7 +32,7 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/md-forhad-uddin-b65496231" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/forhad823" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="30" width="40" /></a>
    <a href="https://web.facebook.com/mdforhad.forhad.7186896/" target="blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" /></a>
     <a href="https://discord.com/users/1324380488231686176" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="30" width="40" /></a>
   </p>
