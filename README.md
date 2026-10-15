@@ -73,3 +73,28 @@
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman,docker)](https://github.com/forhad823)
 
 <br/>
+
+---
+
+<!--- statistics --->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+
+![Snake Grid](https://github.com/forhad823/contribution-snake/blob/output/grid.svg)
+
+### GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=forhad823&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhad823&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+### Repository Stats & Streak:
+
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=forahd823&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=forhad823" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+
+## <br/>
+
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forhad823&label=Profile%20views&color=0e75b6&style=flat" alt="forhad823" /> </p>
